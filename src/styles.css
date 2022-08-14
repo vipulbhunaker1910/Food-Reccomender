@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+.App {
+  font-family: "Montserrat", "sans-serif";
+  text-align: center;
+}
+.btn-primary {
+  border-radius: 1rem;
+  padding: 10px 20px;
+  background-color: #dadada;
+  border-color: #dadada;
+  font-weight: bold;
+  margin-right: 1.5rem;
+  cursor: pointer;
+}
+.btn-primary:hover {
+  border-radius: 1rem;
+  padding: 10px 20px;
+  background-color: black;
+  border-color: black;
+  font-weight: bold;
+  color: white;
+  margin-right: 1.5rem;
+
+  cursor: pointer;
+}
+.app-heading {
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}
+.navigation {
+  background-color: black;
+  border-bottom-left-radius: 1rem;
+}
+.food-recommend {
+  background-color: #dadada;
+  font-weight: 600;
+}
